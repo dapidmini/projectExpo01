@@ -1,0 +1,27 @@
+POINT2 SISTEM APP DISTRIBUTOR KO EDY KIATMADJA
+==============================================
+TANGGAL 03/03/2022
+==================
+- User login
+Masukkan username dan password. Kalo mau, username bs dibuat sm dgn no.hp user
+- Forgot password
+Cara 1. Klik link dlm email utk msk k hal.reset password, atau
+Cara 2. Lsg generate pass baru scr otomatis n kirimkan via email
+- Edit user profile
+Data pribadi tambahan, misal foto, alamat, email
+- Master user
+1. Buat user baru, misal tambah user utk sales baru
+2. Ubah user yg sdh ada, misal deaktivasi user utk sementara
+3. Hapus user yg sdh ada
+- Master toko
+1. Buat data toko baru
+2. Ubah data toko yg sdh ada
+3. Hapus data toko yg sdh ada
+- Master produk
+- Transaksi:
+1. Titip brg
+  Sales dtg k toko bw barang, pemilik toko konfirmasi jenis n jml barang scr manual, sales cetak nota via app, pemilik toko ttd d nota tsb
+2. Sisa brg
+  Sales dtg k toko, sales catet jenis n jml sisa barang scr manual, sales cetak nota via app, pemilik toko ttd d nota tsb
+3. Ambil brg
+  Sales dtg k toko, sales ambil barang dr toko, sales cetak nota via app, pemilik toko ttd d nota tsb
